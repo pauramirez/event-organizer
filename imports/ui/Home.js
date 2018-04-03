@@ -57,6 +57,7 @@ class Home extends Component {
                         <div className="row">
                             <div className="title content-center col-lg-12 col-md-12 text-center">
                                 <h2>About the app</h2>
+//esta seccion da a entender que las imagenes levan a links para cada cosa no como un paso a paso
                             </div>
                         </div>
                         <div className="row">
